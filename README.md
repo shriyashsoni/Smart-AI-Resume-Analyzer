@@ -24,8 +24,7 @@
 
 🚀 We’re actively improving **Smart AI Resume Analyzer – Version 2.0**, and your feedback is crucial!  
 
-💬 **Join the discussion and share your thoughts, issues, and suggestions here:**  
-🔗 **[🗨️ Feedback & Discussion – Smart AI Resume Analyzer (Version 2.0)](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer/discussions/3)**  
+
 
 🛠️ **How can you help?**  
 ✅ Try out **Version 2.0** [here](https://skillmatch-ai.streamlit.app/)  
@@ -66,25 +65,6 @@
         </tr>
     </tbody>
 </table>
-
-  <h4>
-    <a href="https://resumind.streamlit.app/">View Demo</a>
-    <span> · </span>
-    <a href="#-setup-in-minutes">Set-Up (Installation)</a>
-    <span> · </span>
-    <a href="mailto:het8185@gmail.com?subject=I%20Want%20The%20Project%20Report%20of%20Smart%20AI-RESUME-ANALYZER%20(2024%20 %2025)&body=Here%20Are%20My%20Details%20%F0%9F%98%89%0D%0A%0D%0AOrganization%2FCollege%20Name%3A%20%0D%0A%0D%0AFull%20Name%3A%20%0D%0A%0D%0AGitHub%20Profile%20%3A%20%0D%0A%0D%0AFrom%20where%20did%20you%20get%20to%20know%20about%20this%20project%3A%0D%0A%0D%0APurpose%20of%20asking%20project%20report%20(describe)%3A%0D%0A%0D%0A%0D%0AIf%20the%20above%20information%20satisfy%20your%20identity%20you%20will%20get%20the%20report%20to%20your%20email.">Project Report</a>
-  </h4>
-  <p>
-    <small align="justify">
-      Built with <img src="https://github.com/user-attachments/assets/00314b63-96bb-4e9a-92f6-4ead67e0fb7d" width="25" height="25"> by 
-      <a href="https://www.linkedin.com/in/het-patel-8b110525a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Het Patel</a>
-     </small>
-  </p>
-  <small align="justify"><img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> A Project Submitted for the partial fulfilment of the degree BCA at 
-    <a href="https://paruluniversity.ac.in/">Parul University</a> during academic year 2024-25
-  </small>
-</div><br/><br/>
-</div>  
 
 
 ## 🔗 **Helpful Links**
@@ -523,9 +503,7 @@ Join the mission! Here's how:
 </tr>  
 <tr>  
 <td align="center"><b>
-   
-   [💬 FEEDBACK](https://resumind.streamlit.app/)
-   </b></td>  
+
 <td align="center"><b>
    
    [ℹ️ ABOUT](https://resumind.streamlit.app/)
@@ -607,25 +585,6 @@ Join the mission! Here's how:
 |-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|  
 | **Professional Template** - Industry-standard                                     | **Creative Template** - Unique & visually appealing                          |  
 
-
-## 📄 **License**  
-
-This project is licensed under the [MIT License](https://github.com/Hunterdii/resume-analyzer-ai/blob/main/LICENSE).  
-
-
-## 🌟 **GitHub Repo**  
-
-Explore the code, contribute, or drop a <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:20px; color: #FFD700" alt="Star GIF"> : [Smart Resume AI Repository](https://github.com/Hunterdii/resume-analyzer-ai)  
-
-## 🛡️ Maintainer  
-
-> **_This repository is maintained by [Hunterdii](https://github.com/Hunterdii)._**  
-> Have suggestions? Feel free to reach out to [me via email](mailto:het8185@gmail.com). 📧
-
-
-## 📰 News  
-**Practice, practice, practice!** Keep working hard, and it will all fall into place. No shortcuts in this Field! 🛠️  
-> Stay curious and keep learning. 🚀
 
 
 
